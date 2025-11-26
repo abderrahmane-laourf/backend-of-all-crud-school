@@ -20,4 +20,7 @@ require('./app/routes/stock-operations.routes')(app);
 require('./app/routes/sell-operations.routes')(app);
 
 
+
+
+
 module.exports = app;
